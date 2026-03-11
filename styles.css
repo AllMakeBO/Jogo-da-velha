@@ -21,7 +21,7 @@
 
 span{
     background-color: rgb(195, 195, 195);
-    font-size: clamp(1.5rem, 2.8rem, 6rem);
+    font-size: clamp(1.5rem, 3.5rem, 6rem);
 }
 
 .square{
