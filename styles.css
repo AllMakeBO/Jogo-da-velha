@@ -14,8 +14,8 @@
     margin: auto;
     text-align: center;
     align-content: center;
-    width: clamp(500px, 50vw, 100vw);
-    height: clamp(500px, 50vw, 100vw);
+    width: clamp(30vw, 50vw, 100vw);
+    height: clamp(30vw, 50vw, 100vw);
     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 
@@ -50,3 +50,4 @@ button{
     z-index: 1000;
 
 }
+
