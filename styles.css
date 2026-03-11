@@ -9,6 +9,9 @@
 }
 
 .game{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     background: rgb(37, 106, 190);
     border-radius: 2rem;
     margin: auto;
@@ -50,6 +53,7 @@ button{
     z-index: 1000;
 
 }
+
 
 
 
