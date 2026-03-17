@@ -17,8 +17,8 @@
     margin: auto;
     text-align: center;
     align-content: center;
-    width: clamp(28vw, 80vw, 80vw);
-    height: clamp(38vw, 80vw, 80vw);
+    width: clamp(280px, 90vw, 450px);
+    height: clamp(280px, 90vw, 450px);
     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 
